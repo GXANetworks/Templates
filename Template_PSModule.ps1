@@ -29,9 +29,6 @@ Param (
 
 #---------------------------------------------------------[Initialisations]--------------------------------------------------------
 
-#Set Error Action to Silently Continue
-$ErrorActionPreference = 'SilentlyContinue'
-
 #Import Modules & Snap-ins
 
 #----------------------------------------------------------[Declarations]----------------------------------------------------------
